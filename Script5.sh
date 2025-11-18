@@ -4,5 +4,6 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
-echo "git repo"
+echo "git  repo1 has change"
+echo "script5"
 
